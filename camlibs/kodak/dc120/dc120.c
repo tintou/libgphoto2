@@ -20,6 +20,7 @@
 
 #define _DEFAULT_SOURCE
 #define _POSIX_C_SOURCE 199309L
+#define _DARWIN_C_SOURCE
 
 #include "config.h"
 
